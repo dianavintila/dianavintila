@@ -1,4 +1,35 @@
 ![](banner.png)
+```console
+dianavintila@local:~$ echo "Hello  World"
+
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 dianavintila@local
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Android, Python, C++, JS, others...
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: AndroidStudio, VSCode, JetBrains
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, Hacking
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/dianavintila
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Linkedin: dianavintila
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~   
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
+```
+```console
+
 ## Intro
 <p> Hi guys 👋, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
 🧐 Interested in Security, Android & Blockchain </br>
