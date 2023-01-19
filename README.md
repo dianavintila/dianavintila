@@ -6,7 +6,8 @@
 🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
 🌱 Currently learning Linux, Solidity & Malware Detection. </br>
 
-<h3>Technologies I work with</h3>
+
+<h3>Technologies I work with: </h3>
 <p>
    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
