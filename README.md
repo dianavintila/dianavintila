@@ -60,17 +60,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 ## ✨Most wanted✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=Networking-Package-Sniffer&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)]
 
-<p align="center">
-<a href="https://github.com/dianavintila/Tracking-Goods">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=Tracking-Goods&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
 
 <span>&nbsp;</span>
 
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=Tracking-Goods&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)]
 
