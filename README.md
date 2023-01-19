@@ -28,7 +28,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
-```console
+
 
 ## Intro
 <p> Hi guys 👋, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
