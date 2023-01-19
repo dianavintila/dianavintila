@@ -22,7 +22,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila)](https://github.com/dianavintila/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila&theme=tokyonight)](https://github.com/dianavintila/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
