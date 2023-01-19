@@ -58,6 +58,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 <!--END_SECTION:waka-->
 
 ## ✨Most wanted✨
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=github-readme-stats)](https://github.com/dianavintila/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/dianavintila/Tracking-Goods">
