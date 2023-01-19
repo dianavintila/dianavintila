@@ -72,7 +72,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)]
 
 
 
