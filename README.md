@@ -53,18 +53,18 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
                   -!v|`              _?v!`                     
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila)](https://github.com/dianavintila/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila)](https://github.com/dianavintila/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ## ✨Most wanted✨
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=Networking-Package-Sniffer&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dianavintila&repo=Networking-Package-Sniffer&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)]
 
 
 <span>&nbsp;</span>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)]
 
 
 
