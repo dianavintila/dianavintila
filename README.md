@@ -72,6 +72,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact)]
+
+
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/dianavintila/count.svg" />
