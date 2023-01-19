@@ -1,6 +1,7 @@
 # Hello World 👋
 ![](header_1.png)
-Hi guys, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania. 
+## Intro
+<p> Hi guys, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
 
 <h3>Technologies I work with</h3>
 <p>
