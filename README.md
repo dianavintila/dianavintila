@@ -1,7 +1,6 @@
-# Hello World 👋
-![](header_1.png)
+![](banner.png)
 ## Intro
-<p> Hi guys, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
+<p> Hi guys 👋, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
 🧐 Interested in Security, Android & Blockchain </br>
 🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
 🌱 Currently learning Linux, Solidity & Malware Detection. </br>
