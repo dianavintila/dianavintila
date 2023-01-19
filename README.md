@@ -2,9 +2,9 @@
 ![](header_1.png)
 ## Intro
 <p> Hi guys, I'm Diana Vintilă. I am a Android developer from Bucharest, Romania.  <p>
-* 🧐 Interested in Security, Android & Blockchain
-* 🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering..
-* 🌱Currently learning Linux, Solidity & Malware Detection.
+🧐 Interested in Security, Android & Blockchain </br>
+🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
+🌱 Currently learning Linux, Solidity & Malware Detection. </br>
 
 <h3>Technologies I work with</h3>
 <p>
@@ -22,7 +22,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila&theme=dracula)](https://github.com/dianavintila/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavintila)](https://github.com/dianavintila/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
