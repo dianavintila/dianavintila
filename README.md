@@ -2,7 +2,7 @@
 
 ## Intro
 <p> 👋 Hi guys, I'm Diana Vintilă. I work as Android Developer in Bucharest, Romania.  <p>
-🧐 Interested in Security, Android & Blockchain </br>
+🧐 Interested in Security, Android & Blockchain. </br>
 🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
 🌱 Currently learning Linux, Solidity & Malware Detection. </br>
 
