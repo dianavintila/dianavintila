@@ -1,11 +1,10 @@
 ![](header_1.png)
 
 ## Intro
-<p> 👋 Hi guys, I'm Diana Vintilă. I work as Android Developer in Bucharest, Romania.  <p>
+<p> 👋 Hi guys, I'm Diana Vintilă. I am a Software Engineer in Bucharest, Romania.  <p>
 🧐 Interested in Security, Android, Backend, Linux & Blockchain. </br>
 🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
 🌱 Currently learning Linux, Solidity & Malware Detection. </br>
-
 
 <h3>Technologies I work with: </h3>
 <p>
