@@ -3,7 +3,7 @@
 ## Intro
 <p> 👋 Hi guys, I'm Diana Vintilă. I am a Software Engineer in Bucharest, Romania.  <p>
 🧐 Interested in Security, Android, Backend, Linux & Blockchain. </br>
-🎓 Master of Science in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
+🎓 M.S. in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
 🌱 Currently learning Linux, Solidity & Malware Detection. </br>
 
 <h3>Technologies I work with: </h3>
