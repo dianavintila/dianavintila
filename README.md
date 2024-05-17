@@ -1,10 +1,9 @@
 ![](header_1.png)
 
 ## Intro
-<p> 👋 Hi guys, I'm Diana Vintilă. I am a Software Engineer in Bucharest, Romania.  <p>
-🧐 Interested in Security, Android, Backend, Linux & Blockchain. </br>
+<p> 👋 Hi! I am a Software Engineer :)  <p>
+🧐 Interested in security and backend </br>
 🎓 M.S. in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
-🌱 Currently learning Linux, Solidity & Malware Detection. </br>
 
 <h3>Technologies I work with: </h3>
 <p>
@@ -13,12 +12,7 @@
    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
    <img alt="SQLLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <img alt="Etherium" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 </p>
 
 
@@ -30,9 +24,9 @@ dianavintila@local:~$ echo "Hello  World"
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2 years
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Android, Python, C++, JS, others...
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Android, Python, Java, others...
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: BASH
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: AndroidStudio, VSCode, JetBrains
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: AndroidStudio, VSCode, IDEA
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, Hacking
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/dianavintila
 a@@@@@@@@@@2                                    v@@@@@@@@@@;    
