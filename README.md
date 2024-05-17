@@ -1,9 +1,7 @@
 ![](header_1.png)
 
 ## Intro
-<p> 👋 Hi! I am a Software Engineer :)  <p>
-🧐 Interested in security and backend </br>
-🎓 M.S. in Advanced Cybersecurity, B.S. in Systems Engineering. </br>
+<p> 👋 Hi! I am a Software Engineer interested in security and backend :) </p>
 
 <h3>Technologies I work with: </h3>
 <p>
