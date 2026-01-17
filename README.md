@@ -1,7 +1,7 @@
 ![](header_1.png)
 
 ## Intro
-<p> 👋 Hi! I am a Software Engineer interested in security and backend :) </p>
+<p> 👋 Hello World!</p>
 
 <h3>Technologies I work with: </h3>
 <p>
@@ -44,13 +44,3 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
               "Lf8@@@@v              q@@@#Qa?:                 
                   -!v|`              _?v!`                     
 ```
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianavintila&layout=compact&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892)](https://github.com/dianavintila/)
-
-
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/dianavintila/count.svg" />
